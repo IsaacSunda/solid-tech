@@ -1,2 +1,2 @@
-# solidtechproject
+# solidtech
  
